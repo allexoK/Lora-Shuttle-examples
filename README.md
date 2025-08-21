@@ -1,4 +1,4 @@
-# Lora Shuttle
+# Lora-Shuttle-examples
 
 ![Lora Shuttle](images/top.jpg)
 
@@ -10,4 +10,3 @@ This repo contains code examples for the Lora Shuttle devboard based around HT-C
 To be able to flash the board you need to install [Heltec framework](https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series) to your Arduino Ide. 
 When flashing set the board to 'Wireless Mini Shell'. 
 If you need uart printing, you have to enable 'CDC on boot' or use TX/RX board pins. If there is no 'CDC on boot' option in tools you can manually enable it in you boards.txt file by setting: heltec_wireless_mini_shell.build.cdc_on_boot=1.
-# Lora-Shuttle-examples
