@@ -1,6 +1,6 @@
 # Lora-Shuttle-examples
 
-![Lora Shuttle](images/top.jpg)
+![Lora Shuttle](images/top1.jpg)
 
 This repo contains code examples for the Lora Shuttle devboard designed around HT-CT62 module. The module is basically Esp32-C3 + SX1262. Don't forget to set your lorawan region in tools before the compilation, I've tested the board on EU868.
 
